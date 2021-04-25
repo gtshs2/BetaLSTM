@@ -1,4 +1,4 @@
-Bivariate Beta-LSTM, AAAI-20
+#Bivariate Beta-LSTM, AAAI-20
 
 Kyungwoo Song, JoonHo Jang, Seung jae Shin, Il-Chul Moon
 
