@@ -1,8 +1,9 @@
 Bivariate Beta-LSTM, AAAI-20
+
 Kyungwoo Song, JoonHo Jang, Seung jae Shin, Il-Chul Moon
 
-We don't upload the data file becuase of copyright issue.
-Please download the data (JSB, Muse, Nottingham, Piano) from other sources
+We don't upload the data file because of copyright issues.
+Please download the data (JSB, Muse, Nottingham, Piano) from other sources.
 
 ##########
 # BLSTM : ibetalstm
